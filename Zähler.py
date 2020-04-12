@@ -2,6 +2,7 @@ import tkinter as tk
 
 root = tk.Tk()
 
+# mach mal 800*900
 canvas = tk.Canvas(root, height=300, width=300)
 canvas.pack()
 
